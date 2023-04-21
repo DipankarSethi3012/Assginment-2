@@ -1,0 +1,142 @@
+body{
+    background-color: #2e2d2d;
+}
+.containor ul{
+    display: flex;
+    padding-top: 10px;
+position: relative;
+left: 200px;
+border-radius: 10px;
+}
+.containor li{
+    list-style: none;
+    background-color: #43d2e5;
+    padding: 10px;
+
+}
+.containor li a{
+    text-decoration: none;
+    padding: 50px;
+    margin-top: 10px;
+    font-style: italic;
+}
+.containor li:hover{
+    background-color: brown;
+}
+.containor li a:hover{
+    text-decoration: underline;
+}
+.two h2{
+    margin-left: 350px;
+    position: relative;
+    top: 55px;
+    color: red;
+    text-decoration: underline;
+    display: inline;
+}
+.two img{
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 1650px;
+    margin-left: 20px;
+    border: 2px soid black;
+    border-radius: 5px;
+    position: relative;
+    top: 0px;
+    border: 2px solid black;
+
+}
+.two p{
+    display: inline-block;
+    width: 300px; 
+    margin-left: 80px;
+    text-align: justify;
+    position: relative;
+    top: 0px;
+
+}
+.two{
+    
+    border: 2px solid red;
+    background-color: #9f9b9b;
+    overflow: scroll;
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    border-radius: 20px;
+}
+.one{
+    border: 2px solid red;
+    background-color: #9f9b9b;
+    overflow: scroll;
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.one p{
+    display: inline-block;
+     position: relative; 
+    text-align: justify;
+    width: 300px;
+    margin-left: 80px;
+    
+}
+.one img{
+    display: inline-block;
+    position: relative;
+    margin-bottom: 2000px;
+    border: 2px solid black;
+    margin-left: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 5px;
+}
+.one h2{
+    margin-left: 308px;
+    display: inline;
+    position: relative;
+    top: 35px;
+    color: red;
+    text-decoration: underline;
+    left: 50px;
+}
+.three{
+ border: 2px solid red;
+ width: 700px;
+ height: 300px;
+ overflow: scroll;
+ background-color: #847c7c;
+ margin: auto;
+ margin-top: 20px;
+ border-radius: 20px;
+}
+.three img{
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 2200px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 20px;
+    
+
+
+}
+.three p{
+    display: inline-block;
+    text-align: justify;
+    position: relative;
+    width: 300px;
+    left: 85px;
+}
+.three h2{
+    margin-left: 350px;
+    display: inline;
+    position: relative;
+    top: 20px;
+    color: red;
+    text-decoration: underline;
+}
